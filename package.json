@@ -1,0 +1,15 @@
+{
+  "name": "dehumanize",
+  "version": "1.0.0",
+  "description": "Turn humanized numbers back into machine numbers",
+  "main": "index.js",
+  "repository": "git@github.com:johannes-scharlach/dehumanize.git",
+  "author": "Johannes Scharlach <johannes.scharlach@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "humanize-plus": "^1.8.2",
+    "jest": "^22.0.4",
+    "johanness-scripts": "^1.1.0"
+  },
+  "files": ["index.js"]
+}
