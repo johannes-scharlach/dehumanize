@@ -6,7 +6,8 @@ Works well for UI tests if numbers are humanized with [`humanize-plus`](https://
 
 ## Installation
 
-With [npm](https://npmjs.org) do
+This package is [available on npm](https://www.npmjs.com/package/dehumanize),
+so you can install it with [npm](https://npmjs.org)
 
 ```sh
 $ npm install --save-dev dehumanize
